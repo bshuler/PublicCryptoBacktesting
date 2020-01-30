@@ -1,3 +1,6 @@
 backtesting
 backtrader
 ccxt
+ta
+ttrpy
+finta
